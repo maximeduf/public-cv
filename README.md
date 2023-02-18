@@ -27,21 +27,21 @@ Integrated temporarely a team quickly and efficiently to help them respect their
 #### Developer Consultant | September 2019 - August 2020
 ##### LS Tech +, Montreal
 Sports technology startup in a multidisciplinary team developing a new power and cadence tracking device for bicycles
-Developed a mobile application for training session tracking from scratch in the **Flutter Framework** with **test driven development**
-Implemented the **Bluetooth** services compatible with the device, following to the Bluetooth specification
-Developed a new website with **Typescript** and **React**.
-Designed both website and mobile application using **Figma** with focus on user experience
+- Developed a mobile application for training session tracking from scratch in the **Flutter Framework** with **test driven development**
+- Implemented the **Bluetooth** services compatible with the device, following to the Bluetooth specification
+- Developed a new website with **Typescript** and **React**.
+- Designed both website and mobile application using **Figma** with focus on user experience
 
 
 #### Full Stack Developer | October 2019 - April 2020
 ##### Solutions InLibro, Montreal
-Worked in a **linux** environment for the maintenance of KOHA, an open source integrated library management system written in **PERL**
-Debugged the inter library loan module of KOHA, a feature exclusive to Solutions InLibro
-Resolved multiple display customization requests involving **XSLT**, **XML**, **HTML**, **CSS** and **JavaScript**
-Updated customer instances of KOHA on production servers
-Worked in a mixed environment of **Linux** and **Windows** for the maintenance of SécureAccès, a public PC management system
-Accelerated the speed of deployment of SécureAccès backend with **Docker**, **Docker Compose** and **Bash** Scripts
-Improved the windows client installers of SécureAccès with Inno Setup in **Pascal** and **Powershell**
+- Worked in a **linux** environment for the maintenance of KOHA, an open source integrated library management system written in **PERL**
+- Debugged the inter library loan module of KOHA, a feature exclusive to Solutions InLibro
+- Resolved multiple display customization requests involving **XSLT**, **XML**, **HTML**, **CSS** and **JavaScript**
+- Updated customer instances of KOHA on production servers
+- Worked in a mixed environment of **Linux** and **Windows** for the maintenance of SécureAccès, a public PC management system
+- Accelerated the speed of deployment of SécureAccès backend with **Docker**, **Docker Compose** and **Bash** Scripts
+- Improved the windows client installers of SécureAccès with Inno Setup in **Pascal** and **Powershell**
 
 ### Personal Projects
 
